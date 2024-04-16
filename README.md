@@ -2,7 +2,8 @@
 - 👀 I’m interested in data science, leveraging data to gain insights and solve complex problems.
 - 🌱 I’m currently learning advanced machine learning techniques and deep diving into data visualization.
 - 💞️ I’m looking to collaborate on projects related to data analysis, machine learning, and predictive modeling.
-- 📫 How to reach me: You can reach me via email at a000s000@outlook.com or connect with me on LinkedIn at https://www.linkedin.com/in/muhammad-ammar-5b79a322a/
+- 📫 How to reach me: You can reach me via email at a000s000@outlook.com.
+- 🔗 Connect with me on LinkedIn: at https://www.linkedin.com/in/muhammad-ammar-5b79a322a/.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love working out 2/6!
 
