@@ -5,7 +5,7 @@
 - 📫 How to reach me: You can reach me via email at a000s000@outlook.com.
 - 🔗 Connect with me on LinkedIn: at https://www.linkedin.com/in/muhammad-ammar-5b79a322a/.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love working out 2/6!
+- ⚡ Fun fact: I love working out!
 
 
 <!---
